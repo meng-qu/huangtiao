@@ -34,7 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-# 小黄条项目 —— 让小宝贝的小黄条不再满天飞
+# 小黄条项目 —— 让小黄条不再满天飞
 
 ## 技术框架
 1. 全栈Nextjs
